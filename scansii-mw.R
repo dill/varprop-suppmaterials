@@ -1,6 +1,12 @@
 # simple application of varprop
 # minke whales from SCANS-II
 
+# Data are from the SCANS-II project supported by the EU LIFE Nature programme 
+# under project LIFE04NAT/GB/000245 and by the governments of range states: 
+# Belgium, Denmark, France, Germany, Ireland, Netherlands, Norway, Poland, 
+# Portugal, Spain, Sweden and UK.
+
+
 library(mrds)
 library(dsm)
 library(ggplot2)

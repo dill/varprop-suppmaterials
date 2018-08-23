@@ -2,6 +2,12 @@
 # factor-smooth interaction with chopped-up school sizes
 # example using harbour porpoises from parts of SCANS-II
 
+
+# Data are from the SCANS-II project supported by the EU LIFE Nature programme 
+# under project LIFE04NAT/GB/000245 and by the governments of range states: 
+# Belgium, Denmark, France, Germany, Ireland, Netherlands, Norway, Poland, 
+# Portugal, Spain, Sweden and UK.
+
 # libraries and helper functions
 library(mrds)
 library(dsm)
