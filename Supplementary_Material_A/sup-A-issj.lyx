@@ -12,8 +12,8 @@
 \def\independenT#1#2{\mathrel{\rlap{$#1#2$}\mkern2mu{#1#2}}}
 \newcommand{\independent}{\protect\mathpalette{\protect\independenT}{\perp}}
 
-\usepackage{lineno}
-\linenumbers
+%\usepackage{lineno}
+%\linenumbers
 \end_preamble
 \use_default_options true
 \begin_modules

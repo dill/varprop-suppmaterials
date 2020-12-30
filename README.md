@@ -5,8 +5,6 @@ Two examples from the paper:
 A. Re-analysis of the Island Scrub-jay survey from Sillet et al. (2012)
 B. Group-size factor-smooth interaction for harbour porpoise from Hammond et al (2013).
 
-Paper is available [on arXiv](https://arxiv.org/abs/1807.07996).
-
 ## Data
 
 Island Scrub-jay data is from the paper:
